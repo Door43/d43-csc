@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[csc:home|Door43 (csc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-csc|d43-csc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-csc/archive/master.zip|d43-csc.zip]]
+
+**Recent Changes**
+{{changes>ns = csc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/csc|Ethnologue data]]
+
